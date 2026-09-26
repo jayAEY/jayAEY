@@ -17,10 +17,10 @@ I enjoy working where hardware meets software. I am learning how to write code f
 
 ### 🔬 Engineering Projects
 
-#### 🎛️ [vhdl-8bit-parametric-alu](https://github.com)
+#### 🎛️ [vhdl-8bit-parametric-alu](https://github.com/jayAEY/vhdl-8bit-parametric-alu)
 An 8-bit Arithmetic Logic Unit (ALU) written in VHDL to handle binary math operations on an FPGA chip.
 
-#### 📊 [control-systems-matlab](https://github.com)
+#### 📊 [control-systems-matlab](https://github.com/jayAEY/control-systems-matlab)
 A collection of MATLAB scripts used to solve problems from my control systems class.
 * **What it is:** Solutions to multi-loop circuit currents using matrices, transfer functions, and Laplace transforms.
 
@@ -30,8 +30,8 @@ A collection of MATLAB scripts used to solve problems from my control systems cl
 
 Before focusing on electronics, I built software applications. This experience taught me how to handle complex code structures and logic loops:
 
-*   **[playpedia](https://github.com):** A full-stack Next.js app built with TypeScript to let users log and track their video game progress.
-*   **[zelda-pygame](https://github.com):** A 2D top-down action game built in Python using coordinate vectors and real-time logic loops.
+*   **[playpedia](https://github.com/jayAEY/playpedia):** A full-stack Next.js app built with TypeScript to let users log and track their video game progress.
+*   **[zelda-pygame](https://github.com/jayAEY/zelda-pygame):** A 2D top-down action game built in Python using coordinate vectors and real-time logic loops.
 
 ---
 
