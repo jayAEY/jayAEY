@@ -36,4 +36,4 @@ Before focusing on electronics, I built software applications. This experience t
 ---
 
 ### 🗺️ Future Goals
-I am finishing up my engineering technology diploma and plan to bridge into a full Electrical Engineering university degree next. My ultimate goal is to work on embedded firmware, signal processing, oand control systems.
+I am finishing up my engineering technology diploma and plan to bridge into a full Electrical Engineering university degree next. My ultimate goal is to work on embedded firmware and signal processing.
