@@ -1,39 +1,34 @@
 # Hi, I'm Jo (jayAEY) 👋
 
-I am an **Electronic Engineering Technology student** with a background in **Graphic Design** and **Web Development**. 
-
-I enjoy working where hardware meets software. I am learning how to write code for microcontrollers and use math to model real-world engineering systems.
+I'm an **Electronic Engineering Technology student** with a background in **Graphic Design** and **Web Development**. I like working where hardware meets software, mostly writing C for microcontrollers, digital design for FPGAs, and using MATLAB for math and circuit analysis.
 
 ---
 
 ### 🛠️ Skills & Tools
 
-*   **Hardware & Coding:** C, VHDL, Microcontrollers (MSP432, Arduino), FPGAs
-*   **Math & Simulation:** MATLAB (Circuit equations, system modeling)
-*   **Web Development:** TypeScript, JavaScript, React, Next.js, Node.js
-*   **Design:** Graphic Design, Clean Layouts & Documentation
+* **Hardware & Firmware:** C, VHDL, MSP432, Arduino, FPGAs (Intel MAX 10)
+* **Math & Simulation:** MATLAB (Circuit matrices, transfer functions, Laplace transforms)
+* **Web & Software:** TypeScript, JavaScript, React, Next.js, Node.js, Python
+* **Design & Docs:** UI/UX, Graphic Design, Markdown & Technical Documentation
 
 ---
 
-### 🔬 Engineering Projects
+### 🔬 Embedded & Digital Systems Projects
 
-#### 🎛️ [vhdl-8bit-parametric-alu](https://github.com/jayAEY/vhdl-8bit-parametric-alu)
-An 8-bit Arithmetic Logic Unit (ALU) written in VHDL to handle binary math operations on an FPGA chip.
-
-#### 📊 [control-systems-matlab](https://github.com/jayAEY/control-systems-matlab)
-A collection of MATLAB scripts used to solve problems from my control systems class.
-* **What it is:** Solutions to multi-loop circuit currents using matrices, transfer functions, and Laplace transforms.
+* **[msp432-dac-labs](https://github.com/jayAEY/msp432-dac-labs):** Waveform generation using an 8-bit R-2R resistor ladder and hardware PWM. Focuses on low-level register configuration and Timer interrupts.
+* **[vhdl-8bit-parametric-alu](https://github.com/jayAEY/vhdl-8bit-parametric-alu):** An 8-bit ALU in VHDL verified on an Intel MAX 10 FPGA.
+* **[vhdl-digital-timer](https://github.com/jayAEY/vhdl-digital-timer):** A cascading 4-digit digital timer built using VHDL.
+* **[register-level-pwm-motor-control](https://github.com/jayAEY/register-level-pwm-motor-control):** A DC motor speed controller. Uses PORT register manipulation and bitmasking to handle PWM.
+* **[control-systems-matlab](https://github.com/jayAEY/control-systems-matlab):** Scripts for analyzing multi-loop circuit currents and transfer functions.
 
 ---
 
 ### 🌐 Past Web & Software Projects
 
-Before focusing on electronics, I built software applications. This experience taught me how to handle complex code structures and logic loops:
-
-*   **[playpedia](https://github.com/jayAEY/playpedia):** A full-stack Next.js app built with TypeScript to let users log and track their video game progress.
-*   **[zelda-pygame](https://github.com/jayAEY/zelda-pygame):** A 2D top-down action game built in Python using coordinate vectors and real-time logic loops.
-
+Before focusing on electronics, I spent a lot of time building web apps and games. It gave me a really solid foundation for software logic and clean code:
+* **[playpedia](https://github.com/jayAEY/playpedia):** Full-stack Next.js/TypeScript video game tracker (unfinished).
+* **[zelda-pygame](https://github.com/jayAEY/zelda-pygame):** A 2D top-down action game built in Python by following a Clear Code development tutorial.
 ---
 
 ### 🗺️ Future Goals
-I am finishing up my engineering technology diploma and plan to bridge into a full Electrical Engineering university degree next. My ultimate goal is to work on embedded firmware and signal processing.
+Finishing up my engineering technology diploma, bridging into a full Electrical Engineering degree next, and working toward a career in embedded firmware and DSP.
