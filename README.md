@@ -25,7 +25,8 @@ I'm an **Electronic Engineering Technology student** with a background in **Grap
 
 ### 🌐 Past Web & Software Projects
 
-Before focusing on electronics, I spent a lot of time building web apps and games. It gave me a really solid foundation for software logic and clean code:
+Before focusing on electronics, I spent time building web apps and games. It gave me a really solid foundation for writing code:
+* **[Graphic Design + Web Dev Portfolio Site](https://jayaey.github.io/portfolio/):** A front-end showcase website built for my graphic design and web development work.
 * **[playpedia](https://github.com/jayAEY/playpedia):** Full-stack Next.js/TypeScript video game tracker (unfinished).
 * **[zelda-pygame](https://github.com/jayAEY/zelda-pygame):** A 2D top-down action game built in Python by following a Clear Code development tutorial.
 ---
