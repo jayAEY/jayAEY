@@ -16,7 +16,7 @@ I'm an **Electronic Engineering Technology student** with a background in **Grap
 ### 🔬 Embedded & Digital Systems Projects
 
 * **[msp432-dac-labs](https://github.com/jayAEY/msp432-dac-labs):** Waveform generation using an 8-bit R-2R resistor ladder and hardware PWM. Focuses on low-level register configuration and Timer interrupts.
-* **[vhdl-8bit-parametric-alu](https://github.com/jayAEY/vhdl-8bit-parametric-alu):** An 8-bit ALU in VHDL verified on an Intel MAX 10 FPGA.
+* **[vhdl-8bit-parameterized-alu](https://github.com/jayAEY/vhdl-8bit-parameterized-alu):** An 8-bit ALU in VHDL verified on an Intel MAX 10 FPGA.
 * **[vhdl-digital-timer](https://github.com/jayAEY/vhdl-digital-timer):** A cascading 4-digit digital timer built using VHDL.
 * **[register-level-pwm-motor-control](https://github.com/jayAEY/register-level-pwm-motor-control):** A DC motor speed controller. Uses PORT register manipulation and bitmasking to handle PWM.
 * **[control-systems-matlab](https://github.com/jayAEY/control-systems-matlab):** Scripts for analyzing multi-loop circuit currents and transfer functions.
